@@ -33,7 +33,7 @@ directory: target/allure-results
    <https://github.com/pveni/chip-api-qa-automation/actions>
    
 ## Performance Testing Approach for WeatherAPI:
-We can use any performance testing tools like JMeter, Gatling, Locust and Postman/Newman
-Using reference of Postman tool
+We can use any performance testing tools like JMeter, Gatling, Locust and Postman/Newman.
+Using the reference of Postman tool.
 - Create Collection files and also set the environments
 - Create CI/CD pipeline job to execute performance tests
