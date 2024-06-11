@@ -1,4 +1,4 @@
-# Random User API Test Suite
+# Chip API QA Automation Test Suite
 
 ## Overview
 This project contains automated tests for the below API(s) using JUnit, TestNG and RestAssured. It includes both happy path and unhappy path tests.
