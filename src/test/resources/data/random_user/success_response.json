@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Raymond",
+        "last": "Douglas"
+      },
+      "location": {
+        "street": {
+          "number": 7272,
+          "name": "Photinia Ave"
+        },
+        "city": "Stanley",
+        "state": "Ohio",
+        "country": "United States",
+        "postcode": 38124,
+        "coordinates": {
+          "latitude": "81.8175",
+          "longitude": "-108.6020"
+        },
+        "timezone": {
+          "offset": "+4:30",
+          "description": "Kabul"
+        }
+      },
+      "email": "raymond.douglas@example.com",
+      "login": {
+        "uuid": "c3ab9da4-4a06-4a0a-9e18-802d7861f257",
+        "username": "beautifullion602",
+        "password": "thomas",
+        "salt": "rOdAQcQK",
+        "md5": "a2a899a4435b91e67f4be63f30785056",
+        "sha1": "f5012f8493f8aaecac3ff02429c9119ebbb3c7b7",
+        "sha256": "72ebbc5c39cd18461696832c514b7b520a0727dba1f6c28e970d3de0e7f54636"
+      },
+      "dob": {
+        "date": "1945-10-21T12:09:15.090Z",
+        "age": 78
+      },
+      "registered": {
+        "date": "2005-05-01T00:02:40.287Z",
+        "age": 19
+      },
+      "phone": "(553) 291-3452",
+      "cell": "(784) 246-0653",
+      "id": {
+        "name": "SSN",
+        "value": "550-23-5357"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/85.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "a08eaeeb60645dce",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

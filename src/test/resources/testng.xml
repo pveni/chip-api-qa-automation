@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="APITests" verbose="1">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+    <test name="Weather API Tests">
+        <classes>
+            <class name="com.chip.api.qa.automation.tests.WeatherApiTest"/>
+        </classes>
+    </test>
+    <test name="Random User API Tests">
+        <classes>
+            <class name="com.chip.api.qa.automation.tests.RandomUserApiTest"/>
+        </classes>
+    </test>
+    <test name="Currency API Tests">
+        <classes>
+            <class name="com.chip.api.qa.automation.tests.CurrencyApiTest"/>
+        </classes>
+    </test>
+</suite>

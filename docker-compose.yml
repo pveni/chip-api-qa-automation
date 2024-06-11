@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  api-tests:
+    image: maven:3.8.4-openjdk-17
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    command: mvn clean test
